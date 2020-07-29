@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is dev branch!
-=======
-This is dev branch
->>>>>>> dev
+My w+Added Text
